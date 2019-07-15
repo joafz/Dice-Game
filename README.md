@@ -1,2 +1,3 @@
 # Dice-Game
-https://dicegame.surge.sh/
+<a href="https://dicegame.surge.sh/" target="_blank"></a>
+
